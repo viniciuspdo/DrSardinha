@@ -1,0 +1,50 @@
+#: locale=pt
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_62E67F2C_761E_34BD_41D5_CD551F1EA468.toolTip = Banheiro
+HotspotPanoramaOverlayArea_67268D8A_7636_D464_41DA_26B0D9955B7D.toolTip = Banheiro
+HotspotPanoramaOverlayArea_622A943F_7616_749C_41DB_61890C850A93.toolTip = Cozinha
+HotspotPanoramaOverlayArea_629A3277_763E_CCAC_41B9_8099D67FF76F.toolTip = Cozinha
+HotspotPanoramaOverlayArea_6353F6F9_761A_55A4_41D9_800F846FB680.toolTip = Cozinha
+HotspotPanoramaOverlayArea_659A691E_760A_7C9C_41AF_7528466AFC59.toolTip = Cozinha
+HotspotPanoramaOverlayArea_624EFBA0_761A_D3A5_419F_000B78B77DF4.toolTip = Cozinha
+HotspotPanoramaOverlayArea_62818D5E_761D_D49D_41CB_83787D59869E.toolTip = Cozinha
+HotspotPanoramaOverlayArea_6784F166_7637_CCAD_41A9_891765D7C006.toolTip = Entrada
+HotspotPanoramaOverlayArea_62BCA6E0_761E_35A4_41C8_24D1593F1B1E.toolTip = Entrada
+HotspotPanoramaOverlayArea_62CA6279_763B_CCA4_41D0_A542E8C1EBAD.toolTip = Quarto 01
+HotspotPanoramaOverlayArea_658BF1B3_761D_CFA4_41D4_EF1AF5EB63F0.toolTip = Quarto 01
+HotspotPanoramaOverlayArea_638F4040_763E_CCE4_4178_D103D378D9F0.toolTip = Quarto 02
+HotspotPanoramaOverlayArea_62D2B133_761E_4CA4_41AD_8649D8283699.toolTip = Quarto 02
+HotspotPanoramaOverlayArea_65FBAE27_7616_34AC_41D9_BC4B25EBCCBE.toolTip = Sala
+HotspotPanoramaOverlayArea_62AB1770_7616_74A4_41BC_A9B125CC6F8A.toolTip = Sala
+HotspotPanoramaOverlayArea_63FA1137_760B_CCAC_41CE_688A6C6248F1.toolTip = Sala
+HotspotPanoramaOverlayArea_63999B7A_763A_5CA4_41C1_8FA87AB24D2E.toolTip = Sala
+HotspotPanoramaOverlayArea_65F94EAA_760E_D5A4_41DC_C8DCD824A732.toolTip = Sala
+HotspotPanoramaOverlayArea_628D9443_760E_54EB_41D3_7B67B6C191B4.toolTip = Sala
+HotspotPanoramaOverlayArea_67DDED89_760A_5464_41D2_A83425B6D6F6.toolTip = Sala
+HotspotPanoramaOverlayArea_6248BBD1_761A_53E4_41D5_691CC8B8089B.toolTip = Varanda
+HotspotPanoramaOverlayArea_622B3CB2_761B_F5A5_4185_315419419CFA.toolTip = Varanda
+HotspotPanoramaOverlayArea_63217924_7616_DCAD_41C9_8BD95A58EBB4.toolTip = Varanda
+
+## Media
+
+### Title
+panorama_7B6C59C9_761D_DFE4_41D9_76FDBF5D45A3.label = Banheiro
+panorama_7A3D284B_761D_FCFB_41D1_C7B4E28C2AA6.label = Cozinha01
+panorama_639300D7_760B_CDEC_41D5_4B9E53F2B11B.label = Cozinha_Varanda
+panorama_7A3DE1E8_761D_CFA4_4196_11D9904BF441.label = Entrada
+panorama_7A3E1B70_761D_DCA4_41DD_7BFE4F20283F.label = Quarto01
+panorama_7A3E34B8_761E_35A4_41D4_7298698576E0.label = Quarto02
+panorama_7A3D9DCD_761E_37FC_4184_0D7386331F68.label = Sala
+panorama_7A3DA704_761E_546C_41D3_3F0698448757.label = Sala_Quarto01
+panorama_7A3DB055_761E_4CEC_41B1_92817BAF2D5F.label = Varanda_Fim
+panorama_7A3E1A2E_761E_7CBC_41D3_8366ED1AA996.label = Varanda_Inicio
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Dr Sardinha 105
